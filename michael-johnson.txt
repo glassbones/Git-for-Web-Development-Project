@@ -129,7 +129,7 @@ Stretch Questions
 	The element is positioned relative to the closes positioned ancestor. So if its in a div it would default to the top left of that div. 0,0;
 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-	by using width, size, and padding relative to whatever container it is in?
+	Use display:flex.
 	
 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
