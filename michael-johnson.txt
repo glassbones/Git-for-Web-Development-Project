@@ -137,3 +137,4 @@ Stretch Questions
 
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them?
 	The box model is the fact that all content on a webpage is inside of boxes and flows similar to a word document. All content flows downward from the top left of the page and all content is relative to the box that it is placed in.
+	box-sizing: border-box
